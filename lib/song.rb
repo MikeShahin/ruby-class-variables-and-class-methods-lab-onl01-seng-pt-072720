@@ -50,6 +50,6 @@ class Song
         artists[artist] = 1
       end
     end
-    return artists
+    artists
   end
 end
